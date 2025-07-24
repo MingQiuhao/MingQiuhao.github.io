@@ -1,6 +1,6 @@
 # 盛子豪 (Sheng Zihao)  
 `计算机科学本科学生 | 人工智能方向`  
-📍 徐州, 中国 | ✉️ 08222403@cumt.edu.cn | 🌐 [个人网站](https://MingQiuhao.github.io)  
+📍 徐州, 中国 | ✉️ 08222403@cumt.edu.cn | 🌐 [个人网站](https://github.com/MingQiuhao/MingQiuhao.github.io)  
 
 ---
 
